@@ -1,0 +1,10 @@
+{
+    "token": "TOKEN HERE",
+    "password": "password for bot",
+    "account_password": "account password",
+    "api_id": "api_id",
+    "api_hash": "api_hash",
+    "phone": "+123",
+    "proxy": "proxy",
+    "kd": "1"
+}
